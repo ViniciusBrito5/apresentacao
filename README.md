@@ -11,3 +11,5 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software 
 🎯 Meu objetivo é evoluir constantemente como desenvolvedor e participar de projetos que gerem impacto real.
 
 Gosto de desafios, de aprender na prática e de transformar problemas em soluções através da tecnologia.
+
+Linkedin: https://www.linkedin.com/in/vin%C3%ADciusbrito2/
